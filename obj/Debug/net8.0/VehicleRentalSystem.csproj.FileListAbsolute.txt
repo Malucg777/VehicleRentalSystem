@@ -1,0 +1,4 @@
+C:\Autodidacta\Mis praticas\VehicleRentalSystem\obj\Debug\net8.0\VehicleRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Autodidacta\Mis praticas\VehicleRentalSystem\obj\Debug\net8.0\VehicleRentalSystem.AssemblyInfoInputs.cache
+C:\Autodidacta\Mis praticas\VehicleRentalSystem\obj\Debug\net8.0\VehicleRentalSystem.AssemblyInfo.cs
+C:\Autodidacta\Mis praticas\VehicleRentalSystem\obj\Debug\net8.0\VehicleRentalSystem.csproj.CoreCompileInputs.cache

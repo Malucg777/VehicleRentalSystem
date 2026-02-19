@@ -1,0 +1,18 @@
+using System.Data.Common;
+
+public class Camion : Vehiculo
+{
+    public String Color { get; private set; }
+    public String Categoria { get; private set; }
+
+    public Camion(string Matricula, string Marca, string EstadoVehiculo, string Color, string Categoria) : base(Matricula, Marca, EstadoVehiculo)
+    {
+        this.Color = Color;
+        this.Categoria = Categoria;
+    }
+
+    public override double CalcularCosto(int dias)
+    {
+    }
+
+}

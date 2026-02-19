@@ -11,7 +11,8 @@ public class Moto : Vehiculo
 
     public override double CalcularCosto(int dias)
     {
-    
+        double costoPorDia = 20.0;
+        return dias * costoPorDia;
     }
 
 }

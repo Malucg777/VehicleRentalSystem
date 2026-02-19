@@ -1,4 +1,3 @@
-using VehicleRentalSystem.Domain.Entities;
 using VehicleRentalSystem.Domain.Enums;
 
 public class VehiculoFactory
